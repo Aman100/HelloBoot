@@ -1,4 +1,4 @@
-## HelloBootTest is a webapplication which can be used to test all features of HelloBoot.
+## HelloBootTest is a webapplication which can be used to test all features of HelloBoot
 ### Usage:
 - Download and install tomcat.
 - Deploy HelloBootTest on tomcat.
